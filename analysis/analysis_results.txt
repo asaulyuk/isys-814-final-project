@@ -1,0 +1,42 @@
+ISYS 814 TEAM C - PUBLIC ANALYSIS SUMMARY
+==================================================
+
+This file contains aggregate results only. Row-level survey responses,
+raw Qualtrics exports, and the local analysis workbook are intentionally
+excluded from the public repository.
+
+Sample size: 15 valid survey responses
+
+CORE METRICS
+--------------------------------------------------
+- IT strategy importance: 3.53 / 5
+- IT competitive impact: 2.67 / 4
+- IT-business alignment: 3.80 / 5
+- IT strategy involvement: 2.60 / 4
+- IT responsiveness: 3.73 / 5
+- IT delivery effectiveness: 3.67 / 5
+
+GAP METRICS
+--------------------------------------------------
+- Strategy-impact gap: +0.87
+- Alignment-responsiveness gap: +0.07
+
+SEGMENTATION
+--------------------------------------------------
+Rules:
+- Strategic IT: high IT strategy importance and high competitive impact
+- Support IT: lower IT strategy importance and lower competitive impact
+- Constrained IT: all other valid cases
+
+Counts:
+- Strategic IT: 1 (7%)
+- Constrained IT: 8 (53%)
+- Support IT: 6 (40%)
+- Total assigned: 15
+
+INTERPRETIVE SNAPSHOT
+--------------------------------------------------
+- IT is perceived as strategically important, but competitive impact is lower.
+- The strategy-impact gap is the headline quantitative finding.
+- Alignment is slightly higher than responsiveness, but the operational gap is small in this exploratory sample.
+- Most cases fall into Constrained IT, suggesting that strategic intent does not consistently become differentiated impact.

@@ -1,0 +1,58 @@
+qid,question_text,readable_name
+Q1,What is the size of your company?,company_size
+Q2,What industry is your company in? - Selected Choice,industry
+Q2_6_TEXT,What industry is your company in? - Other (please specify) - Text,industry_2
+Q3,How many years has your company been in operation?,years_operations
+Q4,What is your company's annual revenue?,annual_revenue
+Q5,How large is your company's IT department?,large_department
+Q6,What percentage of your company's budget is allocated to IT?,percentage_budget_allocated
+Q7,What is your role in the company? - Selected Choice,role
+Q7_7_TEXT,What is your role in the company? - Other (please specify) - Text,role_2
+Q9,"Which of the following best describes your company's top IT spending categories?
+(Select up to 3) - Selected Choice",top_spending_categories
+Q9_14_TEXT,"Which of the following best describes your company's top IT spending categories?
+(Select up to 3) - Other (please specify) - Text",top_spending_categories_2
+Q10,How does your company prioritize IT investments?,it_budget_priority
+Q11,How would you rate the responsiveness of IT to changing business needs?,responsiveness_changing_business_needs
+Q33,"Artificial intelligence (AI) initiatives are actively being implemented in our organization (e.g., automation, predictive analytics, decision support systems).",ai_initiatives_actively_being
+Q34,"Our organization has the necessary data, talent, and governance structures to successfully implement AI initiatives.",necessary_data_talent_governance
+Q35,"What percentage of your organization’s IT budget is currently allocated to AI-related initiatives (e.g., machine learning, automation, predictive analytics)?",percentage_budget_allocated_ai
+Q12,How effective is IT in delivering projects on time and within budget?,effective_delivering_projects_timeliness
+Q14,"In your opinion, what is the primary role of IT in your organization?",primary_role
+Q28,IT contributes more to process innovation than to product/service innovation in my organization.,contributes_process_innovation_product
+Q15,To what extent does IT contribute to achieving a competitive advantage for your organization?,contribute_achieving_competitive_advantage
+Q27,IT can provide a sustainable competitive advantage in my industry.,can_provide_sustainable_competitive
+Q29,"Core IT infrastructure (e.g., cloud platforms, ERP systems, networks) has become a commodity in my industry.
+
+Commodity refers to technology that is widely available and no longer a source of competitive differentiation.",core_infrastructure_become_commodity
+Q16,How involved is IT in setting the overall business goals and strategy of your company?,involved_setting_business_goals
+Q17,What is your perception of IT leadership within your organization?,perception_leadership
+Q30,"In my organization, IT is primarily viewed as a cost center rather than a strategic asset.
+
+Cost center refers to a function primarily viewed as an operational expense rather than a source of strategic value or competitive advantage.",viewed_cost_center_rather
+Q18,How well do you think IT aligns with the business needs of your organization?,think_alignment_business_needs
+Q19,How would you describe the collaboration between IT and business units in your organization?,collaboration_between_business_units
+Q20,How would you rate the importance of IT to your organization's overall strategy?,it_strategy_importance
+Q31,Our organization leverages IT capabilities to proactively shape new business models.,leverages_capabilities_proactively_shape
+Q21,"Which of the following best describes the IT governance at your company?
+
+IT governance refers to how IT-related decisions are structured and who has authority over them.",governance_decisions_structured_who
+Q22,Who makes the IT-related decisions in your company?,who_makes_decisions
+Q23,How well do you think IT initiatives are communicated to the business side of the organization?,think_initiatives_communicated_business
+Q24,What is the biggest challenge in achieving effective IT and business alignment in your organization?,biggest_challenge_achieving_effective
+Q25,"What challenges do you see that prevent IT from playing a more strategic role in your organization? 
+(Select up to 3)",challenges_see_that_prevent
+Q26,How do you see the role of IT evolving in your organization over the next five years?,see_role_evolving_over
+Q36,Would you be willing to participate in a short follow-up interview (10–15 minutes) to discuss your responses?,be_willing_participate_short
+Q_StraightliningCount,Q_StraightliningCount,q_straightliningcount
+Q_StraightliningPercentage,Q_StraightliningPercentage,q_straightliningpercentage
+Q_StraightliningQuestions,Q_StraightliningQuestions,q_straightliningquestions
+Q7_7_TEXT - Topics,Q7_7_TEXT - Topics,q7_7_text_topics
+Q7_7_TEXT - Parent Topics,Q7_7_TEXT - Parent Topics,q7_7_text_parent_topics
+Q2_6_TEXT - Topics,Q2_6_TEXT - Topics,q2_6_text_topics
+Q2_6_TEXT - Parent Topics,Q2_6_TEXT - Parent Topics,q2_6_text_parent_topics
+Q9_14_TEXT - Topics,Q9_14_TEXT - Topics,q9_14_text_topics
+Q9_14_TEXT - Parent Topics,Q9_14_TEXT - Parent Topics,q9_14_text_parent_topics
+Q2_6_TEXT - Topic Hierarchy Level 1,Q2_6_TEXT - Topic Hierarchy Level 1,q2_6_text_topic_hierarchy_level
+Q7_7_TEXT - Topic Hierarchy Level 1,Q7_7_TEXT - Topic Hierarchy Level 1,q7_7_text_topic_hierarchy_level
+Q9_14_TEXT - Topic Hierarchy Level 1,Q9_14_TEXT - Topic Hierarchy Level 1,q9_14_text_topic_hierarchy_level

@@ -1,0 +1,288 @@
+ISYS 814 Team C — Presentation Outline v1
+(Storytelling Blueprint; Visual-First)
+
+Slide 1 — Work in Progress
+
+1. Key Message (1 sentence)
+- This is a draft storyline prepared for team alignment and will be finalized after interview synthesis.
+
+2. Content (very minimal)
+- WORK IN PROGRESS
+- Draft for team review
+
+3. Visual (MANDATORY)
+- Clean title card layout with centered status badge
+
+4. Visual Logic
+- Signals draft status immediately so reviewers focus on structure and insight quality, not final polish.
+
+5. Design Notes
+- White background, dark text, subtle blue accent border around the status badge.
+
+--------------------------------------------------
+
+Slide 2 — How We’ll Break This Down
+
+1. Key Message (1 sentence)
+- The presentation moves from measurement to gap diagnosis to action.
+
+2. Content (very minimal)
+- Measure
+- Diagnose gaps
+- Segment patterns
+- Implications and actions
+
+3. Visual (MANDATORY)
+- Horizontal process timeline (5-step flow)
+
+4. Visual Logic
+- A visual sequence prepares the audience for a causal narrative rather than disconnected charts.
+
+5. Design Notes
+- Equal spacing across steps; use one accent color for connectors.
+
+--------------------------------------------------
+
+Slide 3 — Why This Matters
+
+1. Key Message (1 sentence)
+- Organizations can overestimate strategic IT value if perceived importance is not matched by delivered impact.
+
+2. Content (very minimal)
+- Importance score is strong
+- Impact score is lower
+
+3. Visual (MANDATORY)
+- Two-column contrast panel (Importance vs Impact)
+
+4. Visual Logic
+- Direct side-by-side contrast creates immediate tension that frames the rest of the analysis.
+
+5. Design Notes
+- Left panel cool tone (importance), right panel warm tone (impact gap risk).
+
+--------------------------------------------------
+
+Slide 4 — What We Measured
+
+1. Key Message (1 sentence)
+- The analysis tracks strategy, alignment, execution, and impact using six core variables.
+
+2. Content (very minimal)
+- Strategy
+- Alignment + execution
+- Impact
+
+3. Visual (MANDATORY)
+- Grouped variable map (cluster diagram)
+
+4. Visual Logic
+- Clustering shows how measures relate conceptually before showing any numbers.
+
+5. Design Notes
+- Use 3 visual groups; keep labels short; avoid bullet-heavy text.
+
+--------------------------------------------------
+
+Slide 5 — Analysis Approach
+
+1. Key Message (1 sentence)
+- We test whether strategic intent translates into operational execution and business impact.
+
+2. Content (very minimal)
+- Importance -> Alignment -> Execution -> Impact
+
+3. Visual (MANDATORY)
+- Arrow-based causal flow diagram
+
+4. Visual Logic
+- Shows analytical logic and prepares audience to interpret gaps as process breakdowns.
+
+5. Design Notes
+- Emphasize flow direction with arrowheads and sequential numbering.
+
+--------------------------------------------------
+
+Slide 6 — Key Metrics
+
+1. Key Message (1 sentence)
+- Average scores show strong perceived strategic importance and alignment, with weaker strategy involvement and impact.
+
+2. Content (very minimal)
+- IT importance = 3.50
+- Competitive impact = 2.64
+- Alignment = 3.79
+- Strategy involvement = 2.57
+
+3. Visual (MANDATORY)
+- Bar chart of key means (6 variables)
+
+4. Visual Logic
+- A single chart establishes the quantitative baseline and highlights relative strengths vs weak points.
+
+5. Design Notes
+- Highlight the lowest bars (impact, strategy involvement) with a contrasting accent.
+
+--------------------------------------------------
+
+Slide 7 — The Gap (Importance vs Impact)
+
+1. Key Message (1 sentence)
+- IT is rated as strategically important, but its competitive contribution is materially lower.
+
+2. Content (very minimal)
+- 3.50 vs 2.64
+- Gap = +0.86
+
+3. Visual (MANDATORY)
+- Side-by-side comparison bar chart
+
+4. Visual Logic
+- The direct pairwise comparison isolates the core insight and quantifies the gap clearly.
+
+5. Design Notes
+- Put the gap number (+0.86) in large type above/between bars.
+
+--------------------------------------------------
+
+Slide 8 — Alignment vs Execution
+
+1. Key Message (1 sentence)
+- Perceived alignment outperforms execution responsiveness, indicating operational friction.
+
+2. Content (very minimal)
+- Alignment = 3.79
+- Responsiveness = 3.64
+
+3. Visual (MANDATORY)
+- Comparison bars with gap annotation
+
+4. Visual Logic
+- Shows that “alignment” may be more conceptual than operational when execution lags.
+
+5. Design Notes
+- Keep bars adjacent; place short interpretation callout to the right.
+
+--------------------------------------------------
+
+Slide 9 — Segmentation
+
+1. Key Message (1 sentence)
+- Most organizations fall into Constrained IT, with only one Strategic IT benchmark case.
+
+2. Content (very minimal)
+- Strategic IT = 1
+- Constrained IT = 7
+- Support IT = 6
+
+3. Visual (MANDATORY)
+- Donut chart (3 segments only)
+
+4. Visual Logic
+- Segment shares convert abstract metrics into actionable organizational profiles.
+
+5. Design Notes
+- Strategic slice highlighted; use labels outside donut for readability.
+
+--------------------------------------------------
+
+Slide 10 — Strategic IT (Benchmark Case)
+
+1. Key Message (1 sentence)
+- The single Strategic IT case serves as a benchmark for high strategy + high impact conditions.
+
+2. Content (very minimal)
+- 1 benchmark case
+- Profile anchor: Lea
+
+3. Visual (MANDATORY)
+- Spotlight card + mini benchmark comparison panel
+
+4. Visual Logic
+- A concrete benchmark helps interpret what “good” looks like against dominant constrained patterns.
+
+5. Design Notes
+- Use visual emphasis badge: “Only Strategic Case.”
+
+--------------------------------------------------
+
+Slide 11 — Constrained IT (Main Pattern)
+
+1. Key Message (1 sentence)
+- The dominant pattern is strategic intent constrained by execution and operating-model barriers.
+
+2. Content (very minimal)
+- Largest segment
+- Intent > realized impact
+
+3. Visual (MANDATORY)
+- Bottleneck diagram (Belief -> Constraint -> Outcome)
+
+4. Visual Logic
+- The bottleneck visual makes the mechanism explicit, not just the result.
+
+5. Design Notes
+- Put “constraint” node in contrasting color to emphasize the blockage point.
+
+--------------------------------------------------
+
+Slide 12 — Interview Insights (Placeholder)
+
+1. Key Message (1 sentence)
+- Interviews will validate which mechanisms drive the observed quantitative gaps.
+
+2. Content (very minimal)
+- Governance
+- Communication
+- Resources
+
+3. Visual (MANDATORY)
+- Three-pillar icon layout
+
+4. Visual Logic
+- Pre-structures qualitative coding dimensions aligned to the quantitative signal.
+
+5. Design Notes
+- Equal visual weight across pillars; avoid explanatory paragraphs.
+
+--------------------------------------------------
+
+Slide 13 — Implications
+
+1. Key Message (1 sentence)
+- If constraints persist, organizations may keep high strategic rhetoric while underdelivering business value.
+
+2. Content (very minimal)
+- Governance risk
+- Execution risk
+- Value realization risk
+
+3. Visual (MANDATORY)
+- 3-column implication matrix
+
+4. Visual Logic
+- Converts findings into management-level consequences.
+
+5. Design Notes
+- Use concise labels; one line per implication.
+
+--------------------------------------------------
+
+Slide 14 — Recommendations / Conclusion
+
+1. Key Message (1 sentence)
+- Close the strategy-impact gap by tightening decision rights, execution cadence, and value tracking.
+
+2. Content (very minimal)
+- Clarify decision rights
+- Protect strategic capacity
+- Track business impact
+
+3. Visual (MANDATORY)
+- Action framework (3-block recommendation model + final takeaway banner)
+
+4. Visual Logic
+- Links each recommendation directly to the diagnosed bottleneck pattern.
+
+5. Design Notes
+- Final takeaway in large type at bottom: “Strategic intent is present; execution design must catch up.”

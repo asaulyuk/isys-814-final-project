@@ -1,0 +1,29 @@
+.DS_Store
+.claude/
+_temp_trash/
+__pycache__/
+*.py[cod]
+~$*
+
+# Raw respondent exports and contact/interview notes are intentionally local-only.
+data/raw/
+interviews/
+data/processed/survey_clean.csv
+analysis/analysis_summary.xlsx
+
+# Detailed written reports may contain qualitative interview context; keep local.
+ISYS814_TeamC_FinalReport_Revised.docx
+presentations/From Capability to Competitive Advantage.docx
+presentations/ISYS814_FinalProject_TeamC_PreInterviewReport_v1.docx
+presentations/finalProjectReport-TeamC_ISYS814.pdf
+presentations/for print.docx
+presentations/printable_note_cards.txt
+presentations/speaker_notes_by_slide.txt
+presentations/speaker_notes_by_slide/
+
+# Derived inspection/output scratch files.
+outputs/
+
+# Superseded local report copies; the revised report is tracked.
+ISYS814_TeamC_FinalReport.docx
+ISYS814_TeamC_FinalReport\ copy.docx

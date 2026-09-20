@@ -1,0 +1,4 @@
+segment,count,percentage,rule
+Strategic IT,1,7,High IT strategy importance and high competitive impact
+Constrained IT,8,53,Strategic importance does not consistently translate into competitive impact
+Support IT,6,40,Lower IT strategy importance and lower competitive impact
